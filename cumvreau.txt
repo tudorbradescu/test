@@ -1,1 +1,3 @@
 start cumvreau
+
+ceva cu logica
